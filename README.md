@@ -256,7 +256,7 @@ Projekt jest dostępny na licencji MIT - szczegóły w pliku `LICENSE`.
 
 **Filip** - Data Engineer / Python Developer
 
-💼 [LinkedIn](https://linkedin.com/in/twoj-profil) | 🐱 [GitHub](https://github.com/twoj-username) | 📧 kontakt@email.com
+💼 [LinkedIn](linkedin.com/in/filip-kusiak-8258a3395) | 🐱 [GitHub](https://github.com/Filip-Kusiak-dev) | 📧 kontakt@email.com
 
 ---
 
